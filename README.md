@@ -4,9 +4,9 @@
 - Facilitator: @beardofedu
 
 ### Students
-- @donnabenesh
-- @ericjfrench
-- @williamgonzalez9060
+- Donna - @donnabenesh
+- Eric - @ericjfrench
+- William - @williamgonzalez9060
 
 ## Talk to Us!!
 
