@@ -1,7 +1,12 @@
-# GitHub for Developers
+﻿# GitHub for Developers
 
 - Class Date: June 1 - 2, 2017
 - Facilitator: @beardofedu
+
+### Students
+- @donnabenesh
+- @ericjfrench
+- @williamgonzalez9060
 
 ## Talk to Us!!
 
