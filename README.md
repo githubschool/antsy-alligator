@@ -1,12 +1,12 @@
-# GitHub for Developers
+﻿# GitHub for Developers
 
 - Class Date: June 1 - 2, 2017
 - Facilitator: @beardofedu
 
-## Studnets
-- Donna
-- Eric
-- William
+### Students
+- Donna - @donnabenesh
+- Eric - @ericjfrench
+- William - @williamgonzalez9060
 
 ## Talk to Us!!
 
