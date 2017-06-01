@@ -1,7 +1,8 @@
-# GitHub for Developers
+﻿# GitHub for Developers
 
 - Class Date: June 1 - 2, 2017
 - Facilitator: @beardofedu
+- Student: Will Gonzalez
 
 ## Talk to Us!!
 
@@ -12,10 +13,9 @@ If you have a question, or need assistance during class, **please create an issu
 Please take a moment to complete the class survey at: https://goo.gl/kVCbFh.
 
 ## Scripts for Adding Files
-
 - **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
 - **PowerShell:** `for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
-
+- Modified the Readme file
 ## Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/GH4D/index)
