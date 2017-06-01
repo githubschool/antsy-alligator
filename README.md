@@ -1,4 +1,4 @@
-# GitHub for Developers
+﻿# GitHub for Developers
 
 - Class Date: June 1 - 2, 2017
 - Facilitator: @beardofedu
@@ -38,3 +38,5 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub's On Demand Training](https://services.github.com/on-demand/)
 - [Recommended Path for Learning More](https://services.github.com/on-demand/path/)
 - [A Curated List of our Favorite Resources](https://services.github.com/classnotes/)
+
+Eric says that BeardOfEdu is the best username EVER!
