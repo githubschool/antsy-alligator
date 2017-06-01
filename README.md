@@ -7,7 +7,7 @@
 
 If you have a question, or need assistance during class, **please create an issue and mention your teacher!**.
 
-- [check out our website]  (http://www.voltaix.com/)
+- [check out our website](http://www.voltaix.com/)
 
 ## Give Us Feedback
 
