@@ -9,7 +9,7 @@
 - William - @williamgonzalez9060
 
 ## Talk to Us!!
-
+Donna modified same line number as Will did
 If you have a question, or need assistance during class, **please create an issue and mention your teacher!**.
 
 ## Give Us Feedback
@@ -43,3 +43,6 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub's On Demand Training](https://services.github.com/on-demand/)
 - [Recommended Path for Learning More](https://services.github.com/on-demand/path/)
 - [A Curated List of our Favorite Resources](https://services.github.com/classnotes/)
+
+
+Hey lett's go to Disneyland!!!!!!!
