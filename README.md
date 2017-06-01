@@ -1,4 +1,4 @@
-# GitHub for Developers
+﻿# GitHub for Developers
 
 - Class Date: June 1 - 2, 2017
 - Facilitator: @beardofedu
@@ -6,6 +6,8 @@
 ## Talk to Us!!
 
 If you have a question, or need assistance during class, **please create an issue and mention your teacher!**.
+
+- [check out our website]  (http://www.voltaix.com/)
 
 ## Give Us Feedback
 
