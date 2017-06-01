@@ -3,6 +3,11 @@
 - Class Date: June 1 - 2, 2017
 - Facilitator: @beardofedu
 
+### Students
+- William
+- Donna
+- Eric
+
 ## Talk to Us!!
 WG-Changes 5-9
 ### Students
