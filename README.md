@@ -1,10 +1,10 @@
-# GitHub for Developers
+﻿# GitHub for Developers
 
 - Class Date: June 1 - 2, 2017
 - Facilitator: @beardofedu
 
 ## Talk to Us!!
-
+WG-Changes 5-9
 If you have a question, or need assistance during class, **please create an issue and mention your teacher!**.
 
 ## Give Us Feedback
