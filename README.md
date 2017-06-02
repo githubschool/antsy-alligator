@@ -1,7 +1,7 @@
 ﻿# GitHub for Developers
 
 - Class Date: June 1 - 2, 2017
-- Facilitator: @beardofedu
+- Facilitator: Matt Desmond - @beardofedu
 
 ### Students
 - William
