@@ -9,6 +9,8 @@
 - Eric
 
 ## Talk to Us!!
+Book your 1:1 meeting with a GitHub Trainer here: https://github.youcanbook.me/
+
 WG-Changes 5-9
 ### Students
 - Donna - @donnabenesh
