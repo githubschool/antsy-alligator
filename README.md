@@ -41,6 +41,7 @@ Please take a moment to complete the class survey at: https://goo.gl/kVCbFh.
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 - [GitHub for Developers Videos](https://www.youtube.com/playlist?list=PLg7s6cbtAD16Pgp6WIVfX4VsGI-xyWkMz) watch videos 14 - 20 to review the more advanced Command Line functions
+- [On Demand - Intro to Windows](https://services.github.com/on-demand/windows/)
 
 ### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
