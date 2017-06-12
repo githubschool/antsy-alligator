@@ -22,6 +22,8 @@ Donna modified same line number as Will did
 
 If you have a question, or need assistance during class, **please create an issue and mention your teacher!**.
 
+- [check out our website](http://www.voltaix.com/)
+
 ## Give Us Feedback
 
 Please take a moment to complete the class survey at: https://goo.gl/kVCbFh.
